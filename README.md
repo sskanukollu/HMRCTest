@@ -13,4 +13,4 @@ Java 8
 Page Object Model with Page Factory.
 
 Observations:
-Cart value is refreshed to empty after logout nad login back.  This test is failed.
+Cart value is refreshed to empty after logout and login back.  This test is failed.
