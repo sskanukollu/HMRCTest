@@ -48,28 +48,28 @@ formatter.match({
   "location": "YourLogoStepDefs.aPracticeWebsiteIsUpAndRunning()"
 });
 formatter.result({
-  "duration": 4672840305,
+  "duration": 3839334889,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.submitTheUserDataForRegistration()"
 });
 formatter.result({
-  "duration": 417315276,
+  "duration": 397628085,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.userShouldBeCreatedWithConfirmationMessage()"
 });
 formatter.result({
-  "duration": 4107278544,
+  "duration": 3412560546,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.myAccountPageShouldDisplayUserName()"
 });
 formatter.result({
-  "duration": 1685134349,
+  "duration": 1387621286,
   "status": "passed"
 });
 formatter.scenario({
@@ -114,28 +114,28 @@ formatter.match({
   "location": "YourLogoStepDefs.aPracticeWebsiteIsUpAndRunning()"
 });
 formatter.result({
-  "duration": 3492454538,
+  "duration": 4339149601,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.providedTheExistingUserLoginDetails()"
 });
 formatter.result({
-  "duration": 47096,
+  "duration": 49311,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.triedToLoginWithProvidedCredentials()"
 });
 formatter.result({
-  "duration": 1563921945,
+  "duration": 1592567429,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.userShouldLoginSuccessfully()"
 });
 formatter.result({
-  "duration": 1933915782,
+  "duration": 1436785625,
   "status": "passed"
 });
 formatter.scenario({
@@ -185,35 +185,35 @@ formatter.match({
   "location": "YourLogoStepDefs.aPracticeWebsiteIsUpAndRunning()"
 });
 formatter.result({
-  "duration": 3242956863,
+  "duration": 3728480038,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.providedTheExistingUserLoginDetails()"
 });
 formatter.result({
-  "duration": 35340,
+  "duration": 33028,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.triedToLoginWithProvidedCredentials()"
 });
 formatter.result({
-  "duration": 1564779121,
+  "duration": 1410118056,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.searchForAnExpensiveDress()"
 });
 formatter.result({
-  "duration": 1570514137,
+  "duration": 1853930156,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.ableToAddItToCart()"
 });
 formatter.result({
-  "duration": 162418498,
+  "duration": 168302545,
   "status": "passed"
 });
 formatter.scenario({
@@ -258,28 +258,29 @@ formatter.match({
   "location": "YourLogoStepDefs.aPracticeWebsiteIsUpAndRunning()"
 });
 formatter.result({
-  "duration": 3133458402,
+  "duration": 2895967252,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.providedTheExistingUserLoginDetails()"
 });
 formatter.result({
-  "duration": 36207,
+  "duration": 24234,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.triedToLoginWithProvidedCredentials()"
 });
 formatter.result({
-  "duration": 1585301181,
+  "duration": 1470446964,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.theCartHasSavedThingsAfterLogoutAndLogin()"
 });
 formatter.result({
-  "duration": 115294938,
-  "status": "passed"
+  "duration": 541186,
+  "error_message": "java.lang.NullPointerException\n\tat cucumber.stepdef.YourLogoStepDefs.theCartHasSavedThingsAfterLogoutAndLogin(YourLogoStepDefs.java:100)\n\tat ✽.Then the cart has saved things after logout and Login(YourLogo.feature:32)\n",
+  "status": "failed"
 });
 });

@@ -97,8 +97,8 @@ public class YourLogoStepDefs extends TestBase{
 
     @Then("^the cart has saved things after logout and Login$")
     public void theCartHasSavedThingsAfterLogoutAndLogin() throws Throwable {
-//        savedCartInfo  = dressPage.cartInfo();
-//        Assert.assertEquals(savedCartInfo,savedCart);
+        savedCartInfo  = dressPage.cartInfo();
         tearDown();
+        Assert.assertEquals(savedCartInfo,"1 Product");
     }
 }

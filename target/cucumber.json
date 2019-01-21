@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4672840305,
+              "duration": 3839334889,
               "status": "passed"
             },
             "line": 5,
@@ -24,7 +24,7 @@
           },
           {
             "result": {
-              "duration": 417315276,
+              "duration": 397628085,
               "status": "passed"
             },
             "line": 6,
@@ -36,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 4107278544,
+              "duration": 3412560546,
               "status": "passed"
             },
             "line": 7,
@@ -48,7 +48,7 @@
           },
           {
             "result": {
-              "duration": 1685134349,
+              "duration": 1387621286,
               "status": "passed"
             },
             "line": 8,
@@ -80,7 +80,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3492454538,
+              "duration": 4339149601,
               "status": "passed"
             },
             "line": 12,
@@ -92,7 +92,7 @@
           },
           {
             "result": {
-              "duration": 47096,
+              "duration": 49311,
               "status": "passed"
             },
             "line": 13,
@@ -104,7 +104,7 @@
           },
           {
             "result": {
-              "duration": 1563921945,
+              "duration": 1592567429,
               "status": "passed"
             },
             "line": 14,
@@ -116,7 +116,7 @@
           },
           {
             "result": {
-              "duration": 1933915782,
+              "duration": 1436785625,
               "status": "passed"
             },
             "line": 15,
@@ -148,7 +148,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3242956863,
+              "duration": 3728480038,
               "status": "passed"
             },
             "line": 20,
@@ -160,7 +160,7 @@
           },
           {
             "result": {
-              "duration": 35340,
+              "duration": 33028,
               "status": "passed"
             },
             "line": 21,
@@ -172,7 +172,7 @@
           },
           {
             "result": {
-              "duration": 1564779121,
+              "duration": 1410118056,
               "status": "passed"
             },
             "line": 22,
@@ -184,7 +184,7 @@
           },
           {
             "result": {
-              "duration": 1570514137,
+              "duration": 1853930156,
               "status": "passed"
             },
             "line": 23,
@@ -196,7 +196,7 @@
           },
           {
             "result": {
-              "duration": 162418498,
+              "duration": 168302545,
               "status": "passed"
             },
             "line": 24,
@@ -228,7 +228,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3133458402,
+              "duration": 2895967252,
               "status": "passed"
             },
             "line": 29,
@@ -240,7 +240,7 @@
           },
           {
             "result": {
-              "duration": 36207,
+              "duration": 24234,
               "status": "passed"
             },
             "line": 30,
@@ -252,7 +252,7 @@
           },
           {
             "result": {
-              "duration": 1585301181,
+              "duration": 1470446964,
               "status": "passed"
             },
             "line": 31,
@@ -264,8 +264,9 @@
           },
           {
             "result": {
-              "duration": 115294938,
-              "status": "passed"
+              "duration": 541186,
+              "error_message": "java.lang.NullPointerException\n\tat cucumber.stepdef.YourLogoStepDefs.theCartHasSavedThingsAfterLogoutAndLogin(YourLogoStepDefs.java:100)\n\tat ✽.Then the cart has saved things after logout and Login(YourLogo.feature:32)\n",
+              "status": "failed"
             },
             "line": 32,
             "name": "the cart has saved things after logout and Login",
