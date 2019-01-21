@@ -14,7 +14,6 @@ Feature: Verify YourLogo website functionality
     When tried to login with provided credentials
     Then User should login successfully
 
-
   @ExpensiveDress @Regression
   Scenario: Search for an expensive dress
     Given A practice website is up and running
@@ -23,8 +22,7 @@ Feature: Verify YourLogo website functionality
     When Search for an expensive dress
     Then Able to add it to Cart
 
-
-  @ExpensiveDress @Regression
+  @Cart @Regression
   Scenario: Logback and check the cart
     Given A practice website is up and running
     And Provided the existing user login details

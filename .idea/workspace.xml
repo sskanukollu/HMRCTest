@@ -2,18 +2,17 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/test/java/utils/TestBase.java" description="driver.get(siteAddress);" line="65" />
-    <bookmark url="file://$PROJECT_DIR$/src/test/java/cucumber/stepdef/YourLogoStepDefs.java" description="authenticationPage.loginToExistingAccount(exisitng..." line="73" />
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/cucumber/stepdef/YourLogoStepDefs.java" description="authenticationPage.loginToExistingAccount(exisitng..." line="75" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f7ba43b-4795-4e57-a67f-bd3e227a42d6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/cucumber/stepdef/YourLogoStepDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumber/stepdef/YourLogoStepDefs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pagesobjects/DressPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pagesobjects/DressPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/YourLogo.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/YourLogo.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/cucumber.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-junit-results/Surefire suite/Surefire test.html" afterDir="false" />
@@ -40,19 +39,19 @@
     <session id="1055787955">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="39" />
-          <entry key="feature" value="1012" />
-          <entry key="java" value="6838" />
+          <entry key="feature" value="1026" />
+          <entry key="java" value="7375" />
           <entry key="properties" value="83" />
           <entry key="txt" value="181" />
           <entry key="xml" value="173" />
@@ -60,8 +59,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Cucumber" value="1012" />
-          <entry key="JAVA" value="6838" />
+          <entry key="Cucumber" value="1026" />
+          <entry key="JAVA" value="7375" />
           <entry key="PLAIN_TEXT" value="220" />
           <entry key="Properties" value="83" />
           <entry key="XML" value="173" />
@@ -71,7 +70,8 @@
         <counts>
           <entry key="class" value="11" />
           <entry key="feature" value="4" />
-          <entry key="java" value="33" />
+          <entry key="html" value="1" />
+          <entry key="java" value="34" />
           <entry key="properties" value="4" />
           <entry key="xml" value="3" />
         </counts>
@@ -80,7 +80,8 @@
         <counts>
           <entry key="CLASS" value="11" />
           <entry key="Cucumber" value="4" />
-          <entry key="JAVA" value="33" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="34" />
           <entry key="Properties" value="4" />
           <entry key="XML" value="3" />
         </counts>
@@ -94,19 +95,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/YourLogo.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="22" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/cucumber/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pagesobjects/MyAccountPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="165">
               <caret line="11" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -120,10 +126,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pagesobjects/DressPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+            <state relative-caret-position="290">
+              <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1821#1822#0" expanded="true" />
+                <element signature="e#1845#1846#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,8 +140,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/utils/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+            <state relative-caret-position="272">
+              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2272#2273#0" expanded="true" />
@@ -143,11 +151,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/cucumber/stepdef/YourLogoStepDefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+            <state relative-caret-position="290">
+              <caret line="102" column="51" selection-start-line="102" selection-start-column="51" selection-end-line="102" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,7 +166,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/RunIntegrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="180">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -170,7 +178,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pagesobjects/AuthenticationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="210">
               <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -182,7 +190,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pagesobjects/RegistrationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
+            <state relative-caret-position="705">
               <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -197,7 +205,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/resources/properties/Properties.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="34" />
+              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -261,8 +269,8 @@
         <option value="$PROJECT_DIR$/src/test/java/utils/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/RunIntegrationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pagesobjects/DressPage.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/features/YourLogo.feature" />
         <option value="$PROJECT_DIR$/src/test/java/cucumber/stepdef/YourLogoStepDefs.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/YourLogo.feature" />
       </list>
     </option>
   </component>
@@ -295,6 +303,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -327,6 +337,22 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="stepdef" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationTestHMRC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pagesobjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="automationTestHMRC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="automationTestHMRC" type="b2602c69:ProjectViewProjectNode" />
@@ -372,12 +398,6 @@
             </path>
             <path>
               <item name="automationTestHMRC" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personal" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automationTestHMRC" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -395,12 +415,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548085156055" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548098141005" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -440,7 +458,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RunIntegrationTest">
+  <component name="RunManager" selected="Maven.LogoTest">
     <configuration name="Scenario: Create a new account" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/YourLogo.feature" />
@@ -450,6 +468,25 @@
       <option name="NAME_FILTER" value="^Create a new account$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Create a new account$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: Create a new account" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Logback and check the cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/YourLogo.feature" />
+      <option name="GLUE" value="cucumber.stepdef" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="personal" />
+      <option name="NAME_FILTER" value="^Logback and check the cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Logback and check the cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Logback and check the cart" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -570,14 +607,15 @@
       <item itemvalue="JUnit.RunIntegrationTest" />
       <item itemvalue="Cucumber java.Scenario: Login with existing user details" />
       <item itemvalue="Cucumber java.Scenario: Search for an expensive dress" />
+      <item itemvalue="Cucumber java.Scenario: Logback and check the cart" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RunIntegrationTest" />
+        <item itemvalue="Cucumber java.Scenario: Logback and check the cart" />
         <item itemvalue="Cucumber java.Scenario: Search for an expensive dress" />
         <item itemvalue="Cucumber java.Scenario: Login with existing user details" />
         <item itemvalue="JUnit.RunIntegrationTest" />
-        <item itemvalue="Cucumber java.Scenario: Search for an expensive dress" />
       </list>
     </recent_temporary>
   </component>
@@ -595,34 +633,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunIntegrationTest - 2019.01.21 at 15h 05m 47s.xml">
+    <history-entry file="RunIntegrationTest - 2019.01.21 at 18h 54m 07s.xml">
       <configuration name="RunIntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunIntegrationTest - 2019.01.21 at 15h 11m 32s.xml">
+    <history-entry file="RunIntegrationTest - 2019.01.21 at 18h 58m 25s.xml">
       <configuration name="RunIntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunIntegrationTest - 2019.01.21 at 15h 14m 04s.xml">
+    <history-entry file="RunIntegrationTest - 2019.01.21 at 19h 00m 46s.xml">
       <configuration name="RunIntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunIntegrationTest - 2019.01.21 at 15h 15m 22s.xml">
+    <history-entry file="RunIntegrationTest - 2019.01.21 at 19h 03m 11s.xml">
       <configuration name="RunIntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunIntegrationTest - 2019.01.21 at 15h 18m 02s.xml">
+    <history-entry file="RunIntegrationTest - 2019.01.21 at 19h 04m 01s.xml">
       <configuration name="RunIntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunIntegrationTest - 2019.01.21 at 15h 18m 54s.xml">
+    <history-entry file="RunIntegrationTest - 2019.01.21 at 19h 06m 41s.xml">
       <configuration name="RunIntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunIntegrationTest - 2019.01.21 at 15h 30m 40s.xml">
+    <history-entry file="RunIntegrationTest - 2019.01.21 at 19h 07m 31s.xml">
       <configuration name="RunIntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunIntegrationTest - 2019.01.21 at 15h 32m 06s.xml">
+    <history-entry file="RunIntegrationTest - 2019.01.21 at 19h 08m 12s.xml">
       <configuration name="RunIntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunIntegrationTest - 2019.01.21 at 15h 39m 07s.xml">
+    <history-entry file="RunIntegrationTest - 2019.01.21 at 19h 08m 40s.xml">
       <configuration name="RunIntegrationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunIntegrationTest - 2019.01.21 at 15h 53m 56s.xml">
+    <history-entry file="RunIntegrationTest - 2019.01.21 at 19h 09m 22s.xml">
       <configuration name="RunIntegrationTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -644,15 +682,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.32260373" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.32260373" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.3299363" />
+      <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.49930555" weight="0.3287841" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3375796" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5013889" side_tool="true" weight="0.39578164" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.40636942" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49861112" visible="true" weight="0.39490446" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -669,21 +707,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/pagesobjects/DressPage.java</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-      </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -801,7 +824,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pagesobjects/MyAccountPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="165">
           <caret line="11" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -811,31 +834,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utils/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2272#2273#0" expanded="true" />
-            <element signature="e#2303#2304#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RunIntegrationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pagesobjects/AuthenticationPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="210">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -845,7 +846,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pagesobjects/RegistrationPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
+        <state relative-caret-position="705">
           <caret line="74" column="35" selection-start-line="74" selection-start-column="35" selection-end-line="74" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -855,37 +856,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RunIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/properties/Properties.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="34" />
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pagesobjects/DressPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+        <state relative-caret-position="290">
+          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1821#1822#0" expanded="true" />
+            <element signature="e#1845#1846#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/YourLogo.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/utils/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="272">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2272#2273#0" expanded="true" />
+            <element signature="e#2303#2304#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cucumber/stepdef/YourLogoStepDefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="102" selection-end-column="5" />
+        <state relative-caret-position="290">
+          <caret line="102" column="51" selection-start-line="102" selection-start-column="51" selection-end-line="102" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/cucumber/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/YourLogo.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="22" selection-end-column="31" />
         </state>
       </provider>
     </entry>

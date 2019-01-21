@@ -48,28 +48,28 @@ formatter.match({
   "location": "YourLogoStepDefs.aPracticeWebsiteIsUpAndRunning()"
 });
 formatter.result({
-  "duration": 3839334889,
+  "duration": 3745180415,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.submitTheUserDataForRegistration()"
 });
 formatter.result({
-  "duration": 397628085,
+  "duration": 376185776,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.userShouldBeCreatedWithConfirmationMessage()"
 });
 formatter.result({
-  "duration": 3412560546,
+  "duration": 3299482796,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.myAccountPageShouldDisplayUserName()"
 });
 formatter.result({
-  "duration": 1387621286,
+  "duration": 1554225516,
   "status": "passed"
 });
 formatter.scenario({
@@ -114,32 +114,32 @@ formatter.match({
   "location": "YourLogoStepDefs.aPracticeWebsiteIsUpAndRunning()"
 });
 formatter.result({
-  "duration": 4339149601,
+  "duration": 4414114495,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.providedTheExistingUserLoginDetails()"
 });
 formatter.result({
-  "duration": 49311,
+  "duration": 58308,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.triedToLoginWithProvidedCredentials()"
 });
 formatter.result({
-  "duration": 1592567429,
+  "duration": 1326933880,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.userShouldLoginSuccessfully()"
 });
 formatter.result({
-  "duration": 1436785625,
+  "duration": 1228082349,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 19,
+  "line": 18,
   "name": "Search for an expensive dress",
   "description": "",
   "id": "verify-yourlogo-website-functionality;search-for-an-expensive-dress",
@@ -147,37 +147,37 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "line": 18,
+      "line": 17,
       "name": "@ExpensiveDress"
     },
     {
-      "line": 18,
+      "line": 17,
       "name": "@Regression"
     }
   ]
 });
 formatter.step({
-  "line": 20,
+  "line": 19,
   "name": "A practice website is up and running",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 21,
+  "line": 20,
   "name": "Provided the existing user login details",
   "keyword": "And "
 });
 formatter.step({
-  "line": 22,
+  "line": 21,
   "name": "tried to login with provided credentials",
   "keyword": "And "
 });
 formatter.step({
-  "line": 23,
+  "line": 22,
   "name": "Search for an expensive dress",
   "keyword": "When "
 });
 formatter.step({
-  "line": 24,
+  "line": 23,
   "name": "Able to add it to Cart",
   "keyword": "Then "
 });
@@ -185,39 +185,39 @@ formatter.match({
   "location": "YourLogoStepDefs.aPracticeWebsiteIsUpAndRunning()"
 });
 formatter.result({
-  "duration": 3728480038,
+  "duration": 3097377014,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.providedTheExistingUserLoginDetails()"
 });
 formatter.result({
-  "duration": 33028,
+  "duration": 34168,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.triedToLoginWithProvidedCredentials()"
 });
 formatter.result({
-  "duration": 1410118056,
+  "duration": 1604671113,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.searchForAnExpensiveDress()"
 });
 formatter.result({
-  "duration": 1853930156,
+  "duration": 6112560576,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.ableToAddItToCart()"
 });
 formatter.result({
-  "duration": 168302545,
+  "duration": 150782953,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 28,
+  "line": 26,
   "name": "Logback and check the cart",
   "description": "",
   "id": "verify-yourlogo-website-functionality;logback-and-check-the-cart",
@@ -225,32 +225,32 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "line": 27,
-      "name": "@ExpensiveDress"
+      "line": 25,
+      "name": "@Cart"
     },
     {
-      "line": 27,
+      "line": 25,
       "name": "@Regression"
     }
   ]
 });
 formatter.step({
-  "line": 29,
+  "line": 27,
   "name": "A practice website is up and running",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 30,
+  "line": 28,
   "name": "Provided the existing user login details",
   "keyword": "And "
 });
 formatter.step({
-  "line": 31,
+  "line": 29,
   "name": "tried to login with provided credentials",
   "keyword": "When "
 });
 formatter.step({
-  "line": 32,
+  "line": 30,
   "name": "the cart has saved things after logout and Login",
   "keyword": "Then "
 });
@@ -258,29 +258,29 @@ formatter.match({
   "location": "YourLogoStepDefs.aPracticeWebsiteIsUpAndRunning()"
 });
 formatter.result({
-  "duration": 2895967252,
+  "duration": 2895750547,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.providedTheExistingUserLoginDetails()"
 });
 formatter.result({
-  "duration": 24234,
+  "duration": 34407,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.triedToLoginWithProvidedCredentials()"
 });
 formatter.result({
-  "duration": 1470446964,
+  "duration": 1856573553,
   "status": "passed"
 });
 formatter.match({
   "location": "YourLogoStepDefs.theCartHasSavedThingsAfterLogoutAndLogin()"
 });
 formatter.result({
-  "duration": 541186,
-  "error_message": "java.lang.NullPointerException\n\tat cucumber.stepdef.YourLogoStepDefs.theCartHasSavedThingsAfterLogoutAndLogin(YourLogoStepDefs.java:100)\n\tat ✽.Then the cart has saved things after logout and Login(YourLogo.feature:32)\n",
+  "duration": 104614458,
+  "error_message": "java.lang.AssertionError: Cart does not retain saved products did not expect to find [true] but found [false]\n\tat org.testng.Assert.fail(Assert.java:97)\n\tat org.testng.Assert.failNotEquals(Assert.java:969)\n\tat org.testng.Assert.assertTrue(Assert.java:43)\n\tat cucumber.stepdef.YourLogoStepDefs.theCartHasSavedThingsAfterLogoutAndLogin(YourLogoStepDefs.java:103)\n\tat ✽.Then the cart has saved things after logout and Login(YourLogo.feature:30)\n",
   "status": "failed"
 });
 });

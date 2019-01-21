@@ -13,6 +13,7 @@ import pagesobjects.MyAccountPage;
 import pagesobjects.RegistrationPage;
 import utils.TestBase;
 
+import java.sql.SQLOutput;
 import java.util.UUID;
 
 
@@ -22,12 +23,13 @@ public class YourLogoStepDefs extends TestBase{
     RegistrationPage registrationPage;
     MyAccountPage myAccountPage;
     DressPage dressPage;
-    String savedCartInfo;
+    String savedCartInfo ="";
 
     public static  String generatedEmail = "";
     String existingEmail;
     String password;
-    String savedCart;
+    String savedCart="";
+
 
     public YourLogoStepDefs(){
             scenario = getScenario();
@@ -97,8 +99,7 @@ public class YourLogoStepDefs extends TestBase{
 
     @Then("^the cart has saved things after logout and Login$")
     public void theCartHasSavedThingsAfterLogoutAndLogin() throws Throwable {
-        savedCartInfo  = dressPage.cartInfo();
         tearDown();
-        Assert.assertEquals(savedCartInfo,"1 Product");
+        Assert.assertTrue("1 product".equals("empty"), "Cart does not retain saved products");
     }
 }
