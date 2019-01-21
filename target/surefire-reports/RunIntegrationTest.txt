@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: RunIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.227 sec - in RunIntegrationTest
