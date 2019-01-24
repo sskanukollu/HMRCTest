@@ -1,7 +1,7 @@
 # HMRCTest
 SivaWebdriverCucumberJava
 
-TO Riun the tests:
+TO Run the tests:
 integration-test -Dbrowser=chrome -Pcucumber "-Dcucumber.options=--tags @Regression --format  html:target/cucumber/  --format  json:target/cucumber/cucumber.json"
 
 Created framework to test Chrome, Firefox and IE browsers on Mac, Windows and Linux(for Jenkins CI)
